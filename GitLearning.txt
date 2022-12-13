@@ -1,0 +1,4 @@
+Learn how to use git
+use git effectively using Github
+place your programs in GitHub
+be Active!!
